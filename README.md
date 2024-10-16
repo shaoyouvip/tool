@@ -1,3 +1,6 @@
+## 使用serv00 部署
+教程：[serv00免费部署一个在线工具箱](https://blog.aizrf.com/p/tool)
+
 ## 1 docker
 
 设置用户名密码
@@ -50,3 +53,5 @@ services:
 docker-compose up -d
 ```
 
+## 致谢
+[iCloudBot](https://github.com/iCloudBot/toolbox)
