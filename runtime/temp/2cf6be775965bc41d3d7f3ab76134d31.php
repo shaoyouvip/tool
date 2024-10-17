@@ -1,4 +1,4 @@
-<?php /*a:4:{s:66:"/www/wwwroot/tool.528sq.cn/application/index/view/index/index.html";i:1696087920;s:61:"/www/wwwroot/tool.528sq.cn/application/index/view/header.html";i:1696136048;s:59:"/www/wwwroot/tool.528sq.cn/application/index/view/link.html";i:1696143234;s:61:"/www/wwwroot/tool.528sq.cn/application/index/view/footer.html";i:1696088816;}*/ ?>
+<?php /*a:4:{s:81:"/usr/home/shaoyou8/domains/tool.aizrf.com/application/index/view/index/index.html";i:1722924448;s:76:"/usr/home/shaoyou8/domains/tool.aizrf.com/application/index/view/header.html";i:1722924448;s:74:"/usr/home/shaoyou8/domains/tool.aizrf.com/application/index/view/link.html";i:1729112572;s:76:"/usr/home/shaoyou8/domains/tool.aizrf.com/application/index/view/footer.html";i:1722924448;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -420,7 +420,7 @@
     <div class="row">
         <div class="col-sm-12"><p>友情链接：
             <a href="https://github.com/shaoyouvip/tool/" target="_blank">Github</a> |
-			<a href="https://blog.aizrf.com/" target="_blank">Blog</a>
+			<a href="https://blog.aizrf.com/" target="_blank">Blog</a> |
         </div>
     </div>
 </div>
